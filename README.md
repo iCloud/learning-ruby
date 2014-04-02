@@ -1,5 +1,4 @@
 #Learning Ruby
----------------
 ##Статьи
 **TODO**
 
@@ -48,6 +47,7 @@ https://www.codeschool.com/
 
 [Кошерный способ использовать виртуалку на винде](http://nashbridges.me/ruby-windows-bootstrap) **(RU)**
 
-http://gorails.com/setup - процесс установки(в том числе через рвм)
+[http://gorails.com/setup](Описание установки на GoRails)
+
 ------------------------
 [Редактор MD файлов](http://prose.io/)
