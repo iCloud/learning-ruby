@@ -1,11 +1,12 @@
 #Learning Ruby
+[ВАШЕ ЗАДАНИЕ](https://github.com/iCloud/learning-ruby/blob/master/learning-tasks.md)
 ##Статьи
 **TODO**
 
 ##Ссылки
 [Что такое рельсы и зачем они нужны? (Видео)](http://seopult.tv/programs/sites/ruby_on_rails_lyzhi_ne_edut_vstavay_na_relsy/) **(RU)**
 
-[http://rusrails.ru/](Документация по рельсам) **(RU)**
+[Документация по рельсам](http://rusrails.ru/) **(RU)**
 
 [Скринкасты по руби и рельсам](hasbrains.ru) **(RU)**
 
@@ -47,7 +48,7 @@ https://www.codeschool.com/
 
 [Кошерный способ использовать виртуалку на винде](http://nashbridges.me/ruby-windows-bootstrap) **(RU)**
 
-[http://gorails.com/setup](Описание установки на GoRails)
+[Описание установки на GoRails](http://gorails.com/setup)
 
 ------------------------
 [Редактор MD файлов](http://prose.io/)
