@@ -22,3 +22,7 @@ end
 lastdigit = a % 10
 puts "Сумма цифр: " + summ.to_s
 puts "Последняя цифра: " + lastdigit.to_s
+if a >= 10
+	prevlastdigit = (a % 100 - a % 10) / 10
+	puts "Предпоследняя цифра : " + prevlastdigit.to_s
+end
