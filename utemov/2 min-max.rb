@@ -3,7 +3,7 @@ require 'set'
 def rand_n(n, max)
     randoms = Set.new
     loop do
-        randoms << rand(max)
+        randoms << rand(max*10).to_f/10
         return randoms.to_a if randoms.size >= n
     end
 end
