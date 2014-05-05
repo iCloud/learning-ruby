@@ -1,12 +1,12 @@
-#Даны три действительных числа. Возвести в квадрат те из них, значения которых неотрицательны.
+﻿#Даны три действительных числа. Возвести в квадрат те из них, значения которых неотрицательны.
 require 'set'
 
 def rand_n(n, max)
-    randoms = Set.new
-    loop do
-        randoms << rand(max*2)-max
-        return randoms.to_a if randoms.size >= n
-    end
+	randoms = Set.new
+	loop do
+		randoms << rand(max*2)-max
+		return randoms.to_a if randoms.size >= n
+	end
 end
 
 
