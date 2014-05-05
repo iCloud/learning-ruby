@@ -1,3 +1,4 @@
+#Даны действительные числа х, у. Получить: max (x, y) , min (x, y).
 require 'set'
 
 def rand_n(n, max)
